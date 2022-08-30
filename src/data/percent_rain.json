@@ -1,0 +1,970 @@
+[
+    {
+        "YEAR": 1901,
+        "JUN": -32.1,
+        "JUL": -13.9,
+        "AUG": 5.5,
+        "SEP": -24.9,
+        "Overall Monsoon": -13.8
+    },
+    {
+        "YEAR": 1902,
+        "JUN": -34.1,
+        "JUL": 1,
+        "AUG": -20.7,
+        "SEP": 19.7,
+        "Overall Monsoon": -8.4
+    },
+    {
+        "YEAR": 1903,
+        "JUN": -29.2,
+        "JUL": 4.1,
+        "AUG": 6.7,
+        "SEP": 19.2,
+        "Overall Monsoon": 1.5
+    },
+    {
+        "YEAR": 1904,
+        "JUN": -0.5,
+        "JUL": -6.8,
+        "AUG": -19.9,
+        "SEP": -22.2,
+        "Overall Monsoon": -12.4
+    },
+    {
+        "YEAR": 1905,
+        "JUN": -44.2,
+        "JUL": -10.2,
+        "AUG": -21,
+        "SEP": 5.7,
+        "Overall Monsoon": -16.8
+    },
+    {
+        "YEAR": 1906,
+        "JUN": 7.6,
+        "JUL": 1.8,
+        "AUG": -2.4,
+        "SEP": 9,
+        "Overall Monsoon": 3.1
+    },
+    {
+        "YEAR": 1907,
+        "JUN": -7.6,
+        "JUL": -20.1,
+        "AUG": 21.2,
+        "SEP": -42.6,
+        "Overall Monsoon": -10
+    },
+    {
+        "YEAR": 1908,
+        "JUN": -23.5,
+        "JUL": 16.3,
+        "AUG": 23,
+        "SEP": -8.9,
+        "Overall Monsoon": 5.8
+    },
+    {
+        "YEAR": 1909,
+        "JUN": 25.1,
+        "JUL": 9.9,
+        "AUG": -8,
+        "SEP": -3.4,
+        "Overall Monsoon": 5
+    },
+    {
+        "YEAR": 1910,
+        "JUN": 28.4,
+        "JUL": -11.9,
+        "AUG": 13.6,
+        "SEP": 10.5,
+        "Overall Monsoon": 7.6
+    },
+    {
+        "YEAR": 1911,
+        "JUN": 15.1,
+        "JUL": -41.8,
+        "AUG": -15.8,
+        "SEP": 7.3,
+        "Overall Monsoon": -13.8
+    },
+    {
+        "YEAR": 1912,
+        "JUN": -35.4,
+        "JUL": 17.8,
+        "AUG": 2.9,
+        "SEP": -28.9,
+        "Overall Monsoon": -5.7
+    },
+    {
+        "YEAR": 1913,
+        "JUN": 29.4,
+        "JUL": -4.4,
+        "AUG": -24,
+        "SEP": -34.9,
+        "Overall Monsoon": -9.6
+    },
+    {
+        "YEAR": 1914,
+        "JUN": -5.3,
+        "JUL": 25.4,
+        "AUG": -4.9,
+        "SEP": 16.3,
+        "Overall Monsoon": 8.9
+    },
+    {
+        "YEAR": 1915,
+        "JUN": -5.7,
+        "JUL": -17.7,
+        "AUG": -10.3,
+        "SEP": 3.8,
+        "Overall Monsoon": -9.1
+    },
+    {
+        "YEAR": 1916,
+        "JUN": 40.6,
+        "JUL": -3.3,
+        "AUG": 23.2,
+        "SEP": 19.4,
+        "Overall Monsoon": 17.2
+    },
+    {
+        "YEAR": 1917,
+        "JUN": 41,
+        "JUL": 2.3,
+        "AUG": 16.8,
+        "SEP": 68.1,
+        "Overall Monsoon": 26.6
+    },
+    {
+        "YEAR": 1918,
+        "JUN": 28.4,
+        "JUL": -33.6,
+        "AUG": -4.2,
+        "SEP": -32.9,
+        "Overall Monsoon": -13
+    },
+    {
+        "YEAR": 1919,
+        "JUN": 18.1,
+        "JUL": 10.4,
+        "AUG": 13.8,
+        "SEP": -3,
+        "Overall Monsoon": 10.3
+    },
+    {
+        "YEAR": 1920,
+        "JUN": -1,
+        "JUL": 6,
+        "AUG": -24.4,
+        "SEP": -26.6,
+        "Overall Monsoon": -10.6
+    },
+    {
+        "YEAR": 1921,
+        "JUN": 16.3,
+        "JUL": 5,
+        "AUG": 9.7,
+        "SEP": 22.2,
+        "Overall Monsoon": 11.8
+    },
+    {
+        "YEAR": 1922,
+        "JUN": 24.1,
+        "JUL": 13.7,
+        "AUG": -13.4,
+        "SEP": 21.6,
+        "Overall Monsoon": 9.3
+    },
+    {
+        "YEAR": 1923,
+        "JUN": -38.5,
+        "JUL": 21.6,
+        "AUG": 8.7,
+        "SEP": 4.3,
+        "Overall Monsoon": 3.1
+    },
+    {
+        "YEAR": 1924,
+        "JUN": -18.7,
+        "JUL": 17.9,
+        "AUG": 1.9,
+        "SEP": 41.6,
+        "Overall Monsoon": 10.8
+    },
+    {
+        "YEAR": 1925,
+        "JUN": 23.6,
+        "JUL": 9.2,
+        "AUG": -6.2,
+        "SEP": -16.6,
+        "Overall Monsoon": 2.4
+    },
+    {
+        "YEAR": 1926,
+        "JUN": -41.1,
+        "JUL": 14.3,
+        "AUG": 32.4,
+        "SEP": 26.1,
+        "Overall Monsoon": 11.4
+    },
+    {
+        "YEAR": 1927,
+        "JUN": 7,
+        "JUL": 24.8,
+        "AUG": 2,
+        "SEP": 2.6,
+        "Overall Monsoon": 10.4
+    },
+    {
+        "YEAR": 1928,
+        "JUN": 8.2,
+        "JUL": 9.1,
+        "AUG": -8.5,
+        "SEP": -13.1,
+        "Overall Monsoon": -0.5
+    },
+    {
+        "YEAR": 1929,
+        "JUN": 17.7,
+        "JUL": 6.2,
+        "AUG": -3.8,
+        "SEP": -25.3,
+        "Overall Monsoon": -0.6
+    },
+    {
+        "YEAR": 1930,
+        "JUN": 8.8,
+        "JUL": 4.2,
+        "AUG": -16.5,
+        "SEP": 4.5,
+        "Overall Monsoon": -0.9
+    },
+    {
+        "YEAR": 1931,
+        "JUN": -19.9,
+        "JUL": 14.4,
+        "AUG": 21.1,
+        "SEP": 13.8,
+        "Overall Monsoon": 9.7
+    },
+    {
+        "YEAR": 1932,
+        "JUN": -14.4,
+        "JUL": 19.2,
+        "AUG": -6.1,
+        "SEP": 8.6,
+        "Overall Monsoon": 3.3
+    },
+    {
+        "YEAR": 1933,
+        "JUN": 30.6,
+        "JUL": 1.6,
+        "AUG": 24.1,
+        "SEP": 26.9,
+        "Overall Monsoon": 18.6
+    },
+    {
+        "YEAR": 1934,
+        "JUN": 30.2,
+        "JUL": 1.7,
+        "AUG": 16.4,
+        "SEP": -0.8,
+        "Overall Monsoon": 11
+    },
+    {
+        "YEAR": 1935,
+        "JUN": -3.9,
+        "JUL": 13.2,
+        "AUG": -2.3,
+        "SEP": 11.4,
+        "Overall Monsoon": 5
+    },
+    {
+        "YEAR": 1936,
+        "JUN": 49.4,
+        "JUL": 4.7,
+        "AUG": -5.9,
+        "SEP": 16.3,
+        "Overall Monsoon": 12.3
+    },
+    {
+        "YEAR": 1937,
+        "JUN": -1.4,
+        "JUL": 20.5,
+        "AUG": -17.7,
+        "SEP": 4.6,
+        "Overall Monsoon": 2
+    },
+    {
+        "YEAR": 1938,
+        "JUN": 65.4,
+        "JUL": 7.9,
+        "AUG": -1.1,
+        "SEP": 1.5,
+        "Overall Monsoon": 15
+    },
+    {
+        "YEAR": 1939,
+        "JUN": 3.8,
+        "JUL": -2.3,
+        "AUG": -8.9,
+        "SEP": -7.3,
+        "Overall Monsoon": -4
+    },
+    {
+        "YEAR": 1940,
+        "JUN": 5.6,
+        "JUL": 10.8,
+        "AUG": 10.4,
+        "SEP": -25.5,
+        "Overall Monsoon": 2.6
+    },
+    {
+        "YEAR": 1941,
+        "JUN": 3.3,
+        "JUL": -14.2,
+        "AUG": -9.1,
+        "SEP": -7.3,
+        "Overall Monsoon": -8.1
+    },
+    {
+        "YEAR": 1942,
+        "JUN": 15.1,
+        "JUL": 22.6,
+        "AUG": 15,
+        "SEP": 8.4,
+        "Overall Monsoon": 16.2
+    },
+    {
+        "YEAR": 1943,
+        "JUN": 1,
+        "JUL": 11.1,
+        "AUG": -8.4,
+        "SEP": 25.8,
+        "Overall Monsoon": 6.3
+    },
+    {
+        "YEAR": 1944,
+        "JUN": -6.5,
+        "JUL": 26.4,
+        "AUG": 14,
+        "SEP": -7.2,
+        "Overall Monsoon": 10
+    },
+    {
+        "YEAR": 1945,
+        "JUN": -5.1,
+        "JUL": 18.9,
+        "AUG": -3.1,
+        "SEP": 27.5,
+        "Overall Monsoon": 9.5
+    },
+    {
+        "YEAR": 1946,
+        "JUN": 28.7,
+        "JUL": 13.6,
+        "AUG": 16.6,
+        "SEP": -14.1,
+        "Overall Monsoon": 12
+    },
+    {
+        "YEAR": 1947,
+        "JUN": -21.2,
+        "JUL": 11.7,
+        "AUG": 14.1,
+        "SEP": 43.1,
+        "Overall Monsoon": 12.2
+    },
+    {
+        "YEAR": 1948,
+        "JUN": -2.2,
+        "JUL": 23.1,
+        "AUG": 10.9,
+        "SEP": 5.6,
+        "Overall Monsoon": 11.3
+    },
+    {
+        "YEAR": 1949,
+        "JUN": -1.9,
+        "JUL": 13.1,
+        "AUG": -5.1,
+        "SEP": 34.5,
+        "Overall Monsoon": 9
+    },
+    {
+        "YEAR": 1950,
+        "JUN": -19.1,
+        "JUL": 18.9,
+        "AUG": -8.1,
+        "SEP": 20.9,
+        "Overall Monsoon": 4.2
+    },
+    {
+        "YEAR": 1951,
+        "JUN": -3.1,
+        "JUL": -11,
+        "AUG": -13.2,
+        "SEP": -26.6,
+        "Overall Monsoon": -13.2
+    },
+    {
+        "YEAR": 1952,
+        "JUN": -1,
+        "JUL": 1.5,
+        "AUG": 0.5,
+        "SEP": -29.5,
+        "Overall Monsoon": -5.3
+    },
+    {
+        "YEAR": 1953,
+        "JUN": -1.8,
+        "JUL": 14.5,
+        "AUG": 17.6,
+        "SEP": 6.2,
+        "Overall Monsoon": 10.7
+    },
+    {
+        "YEAR": 1954,
+        "JUN": -14.6,
+        "JUL": 4.8,
+        "AUG": -9.5,
+        "SEP": 47,
+        "Overall Monsoon": 5.1
+    },
+    {
+        "YEAR": 1955,
+        "JUN": 5.7,
+        "JUL": -16.7,
+        "AUG": 26.2,
+        "SEP": 29.8,
+        "Overall Monsoon": 9.1
+    },
+    {
+        "YEAR": 1956,
+        "JUN": 26.6,
+        "JUL": 29.5,
+        "AUG": 2.3,
+        "SEP": -1.4,
+        "Overall Monsoon": 15
+    },
+    {
+        "YEAR": 1957,
+        "JUN": -6.6,
+        "JUL": 9,
+        "AUG": 7.1,
+        "SEP": -21.6,
+        "Overall Monsoon": -0.5
+    },
+    {
+        "YEAR": 1958,
+        "JUN": -26.1,
+        "JUL": 12.6,
+        "AUG": 26.2,
+        "SEP": 37.6,
+        "Overall Monsoon": 14
+    },
+    {
+        "YEAR": 1959,
+        "JUN": 1.5,
+        "JUL": 33.5,
+        "AUG": 3.9,
+        "SEP": 40.9,
+        "Overall Monsoon": 20.1
+    },
+    {
+        "YEAR": 1960,
+        "JUN": -4.8,
+        "JUL": 13.1,
+        "AUG": -0.9,
+        "SEP": 8,
+        "Overall Monsoon": 4.6
+    },
+    {
+        "YEAR": 1961,
+        "JUN": 16.4,
+        "JUL": 20.2,
+        "AUG": 12.4,
+        "SEP": 40.1,
+        "Overall Monsoon": 21
+    },
+    {
+        "YEAR": 1962,
+        "JUN": -18.2,
+        "JUL": 0.1,
+        "AUG": 8.4,
+        "SEP": 25.2,
+        "Overall Monsoon": 3.9
+    },
+    {
+        "YEAR": 1963,
+        "JUN": 1,
+        "JUL": -8.4,
+        "AUG": 24.6,
+        "SEP": -1.5,
+        "Overall Monsoon": 4.4
+    },
+    {
+        "YEAR": 1964,
+        "JUN": 6.2,
+        "JUL": 22.5,
+        "AUG": 7.2,
+        "SEP": 18.8,
+        "Overall Monsoon": 14.2
+    },
+    {
+        "YEAR": 1965,
+        "JUN": -30.1,
+        "JUL": -4,
+        "AUG": -24.6,
+        "SEP": -22.5,
+        "Overall Monsoon": -18.6
+    },
+    {
+        "YEAR": 1966,
+        "JUN": 7,
+        "JUL": -10.3,
+        "AUG": -15.1,
+        "SEP": -12.3,
+        "Overall Monsoon": -8.8
+    },
+    {
+        "YEAR": 1967,
+        "JUN": -13.6,
+        "JUL": 8.6,
+        "AUG": 3.6,
+        "SEP": 2,
+        "Overall Monsoon": 1.6
+    },
+    {
+        "YEAR": 1968,
+        "JUN": -10.5,
+        "JUL": 10,
+        "AUG": -16,
+        "SEP": -23.3,
+        "Overall Monsoon": -8
+    },
+    {
+        "YEAR": 1969,
+        "JUN": -21.2,
+        "JUL": 14.3,
+        "AUG": 8.7,
+        "SEP": 3.5,
+        "Overall Monsoon": 3.8
+    },
+    {
+        "YEAR": 1970,
+        "JUN": 30.6,
+        "JUL": -10.4,
+        "AUG": 25,
+        "SEP": 27.8,
+        "Overall Monsoon": 15.2
+    },
+    {
+        "YEAR": 1971,
+        "JUN": 38.4,
+        "JUL": -4.4,
+        "AUG": 5.3,
+        "SEP": -11.9,
+        "Overall Monsoon": 5.1
+    },
+    {
+        "YEAR": 1972,
+        "JUN": -26.2,
+        "JUL": -27.2,
+        "AUG": -13.8,
+        "SEP": -23.2,
+        "Overall Monsoon": -22.3
+    },
+    {
+        "YEAR": 1973,
+        "JUN": -9.6,
+        "JUL": -0.7,
+        "AUG": 22.6,
+        "SEP": 9.4,
+        "Overall Monsoon": 6.4
+    },
+    {
+        "YEAR": 1974,
+        "JUN": -25.7,
+        "JUL": 0,
+        "AUG": -9.3,
+        "SEP": -14.5,
+        "Overall Monsoon": -10.4
+    },
+    {
+        "YEAR": 1975,
+        "JUN": 5.7,
+        "JUL": 9.8,
+        "AUG": 13.2,
+        "SEP": 35,
+        "Overall Monsoon": 14.9
+    },
+    {
+        "YEAR": 1976,
+        "JUN": -4.8,
+        "JUL": 4,
+        "AUG": 15.1,
+        "SEP": -14.9,
+        "Overall Monsoon": 1.9
+    },
+    {
+        "YEAR": 1977,
+        "JUN": 11.8,
+        "JUL": 14.8,
+        "AUG": -3.9,
+        "SEP": -12.8,
+        "Overall Monsoon": 3.4
+    },
+    {
+        "YEAR": 1978,
+        "JUN": 25.3,
+        "JUL": 3.2,
+        "AUG": 10.6,
+        "SEP": -3.8,
+        "Overall Monsoon": 8.2
+    },
+    {
+        "YEAR": 1979,
+        "JUN": -15.8,
+        "JUL": -15.1,
+        "AUG": -17.5,
+        "SEP": -19,
+        "Overall Monsoon": -16.7
+    },
+    {
+        "YEAR": 1980,
+        "JUN": 38.5,
+        "JUL": 5.7,
+        "AUG": 3.7,
+        "SEP": -13.7,
+        "Overall Monsoon": 7.6
+    },
+    {
+        "YEAR": 1981,
+        "JUN": -8.3,
+        "JUL": 10.3,
+        "AUG": -6.4,
+        "SEP": 10.7,
+        "Overall Monsoon": 1.9
+    },
+    {
+        "YEAR": 1982,
+        "JUN": -17.4,
+        "JUL": -17.8,
+        "AUG": 8.3,
+        "SEP": -24.9,
+        "Overall Monsoon": -11.4
+    },
+    {
+        "YEAR": 1983,
+        "JUN": -9.3,
+        "JUL": 0.7,
+        "AUG": 20,
+        "SEP": 50,
+        "Overall Monsoon": 14
+    },
+    {
+        "YEAR": 1984,
+        "JUN": 15.4,
+        "JUL": 2,
+        "AUG": 4,
+        "SEP": -13.5,
+        "Overall Monsoon": 2.1
+    },
+    {
+        "YEAR": 1985,
+        "JUN": -6.3,
+        "JUL": 3.4,
+        "AUG": -8.2,
+        "SEP": -9.9,
+        "Overall Monsoon": -4.4
+    },
+    {
+        "YEAR": 1986,
+        "JUN": 9.4,
+        "JUL": -6.7,
+        "AUG": -10.4,
+        "SEP": -25.8,
+        "Overall Monsoon": -8.5
+    },
+    {
+        "YEAR": 1987,
+        "JUN": -21.1,
+        "JUL": -21.5,
+        "AUG": -4.6,
+        "SEP": -10.3,
+        "Overall Monsoon": -14.3
+    },
+    {
+        "YEAR": 1988,
+        "JUN": -4.6,
+        "JUL": 34.3,
+        "AUG": 17.7,
+        "SEP": 30.1,
+        "Overall Monsoon": 21.2
+    },
+    {
+        "YEAR": 1989,
+        "JUN": 11.3,
+        "JUL": 7.8,
+        "AUG": -7,
+        "SEP": -2.4,
+        "Overall Monsoon": 2.1
+    },
+    {
+        "YEAR": 1990,
+        "JUN": 15.2,
+        "JUL": 2.3,
+        "AUG": 13.8,
+        "SEP": 16.8,
+        "Overall Monsoon": 10.9
+    },
+    {
+        "YEAR": 1991,
+        "JUN": 11.1,
+        "JUL": -1.2,
+        "AUG": 2,
+        "SEP": -19.1,
+        "Overall Monsoon": -1.4
+    },
+    {
+        "YEAR": 1992,
+        "JUN": -17.4,
+        "JUL": -5,
+        "AUG": 11.8,
+        "SEP": 0,
+        "Overall Monsoon": -1.4
+    },
+    {
+        "YEAR": 1993,
+        "JUN": 2.6,
+        "JUL": 8.6,
+        "AUG": -20.8,
+        "SEP": 24.8,
+        "Overall Monsoon": 2
+    },
+    {
+        "YEAR": 1994,
+        "JUN": 22.9,
+        "JUL": 25.1,
+        "AUG": 12.2,
+        "SEP": -11.3,
+        "Overall Monsoon": 13.9
+    },
+    {
+        "YEAR": 1995,
+        "JUN": -16.5,
+        "JUL": 14.2,
+        "AUG": 4.8,
+        "SEP": 7.3,
+        "Overall Monsoon": 4.3
+    },
+    {
+        "YEAR": 1996,
+        "JUN": 11.6,
+        "JUL": -5.4,
+        "AUG": 17.7,
+        "SEP": -12,
+        "Overall Monsoon": 3.3
+    },
+    {
+        "YEAR": 1997,
+        "JUN": 3.8,
+        "JUL": 1.5,
+        "AUG": 3.2,
+        "SEP": -10.2,
+        "Overall Monsoon": 0.2
+    },
+    {
+        "YEAR": 1998,
+        "JUN": -2.2,
+        "JUL": 0.7,
+        "AUG": -2.4,
+        "SEP": 20.8,
+        "Overall Monsoon": 3.1
+    },
+    {
+        "YEAR": 1999,
+        "JUN": 3.3,
+        "JUL": -5.1,
+        "AUG": -12.9,
+        "SEP": 11.3,
+        "Overall Monsoon": -2.6
+    },
+    {
+        "YEAR": 2000,
+        "JUN": 12,
+        "JUL": -4.2,
+        "AUG": -11.6,
+        "SEP": -19.1,
+        "Overall Monsoon": -6.2
+    },
+    {
+        "YEAR": 2001,
+        "JUN": 30.2,
+        "JUL": -0.1,
+        "AUG": -19.3,
+        "SEP": -34.8,
+        "Overall Monsoon": -6.7
+    },
+    {
+        "YEAR": 2002,
+        "JUN": 2.3,
+        "JUL": -50.6,
+        "AUG": -4.4,
+        "SEP": -19,
+        "Overall Monsoon": -20.9
+    },
+    {
+        "YEAR": 2003,
+        "JUN": -0.4,
+        "JUL": 8.3,
+        "AUG": -2.6,
+        "SEP": 7.4,
+        "Overall Monsoon": 3.3
+    },
+    {
+        "YEAR": 2004,
+        "JUN": 0.6,
+        "JUL": -13.4,
+        "AUG": -0.8,
+        "SEP": -26.6,
+        "Overall Monsoon": -9.6
+    },
+    {
+        "YEAR": 2005,
+        "JUN": -11.8,
+        "JUL": 18.9,
+        "AUG": -25,
+        "SEP": 20,
+        "Overall Monsoon": 0.4
+    },
+    {
+        "YEAR": 2006,
+        "JUN": -8.7,
+        "JUL": 2.7,
+        "AUG": 13.1,
+        "SEP": 1.7,
+        "Overall Monsoon": 3.4
+    },
+    {
+        "YEAR": 2007,
+        "JUN": 20.9,
+        "JUL": 5,
+        "AUG": 1.6,
+        "SEP": 27,
+        "Overall Monsoon": 11.3
+    },
+    {
+        "YEAR": 2008,
+        "JUN": 27.3,
+        "JUL": -9.3,
+        "AUG": 4.2,
+        "SEP": -0.7,
+        "Overall Monsoon": 3.3
+    },
+    {
+        "YEAR": 2009,
+        "JUN": -47.1,
+        "JUL": 1.9,
+        "AUG": -24.1,
+        "SEP": -15.2,
+        "Overall Monsoon": -18.3
+    },
+    {
+        "YEAR": 2010,
+        "JUN": -14.5,
+        "JUL": 6.7,
+        "AUG": 7.2,
+        "SEP": 17.9,
+        "Overall Monsoon": 5
+    },
+    {
+        "YEAR": 2011,
+        "JUN": 10.8,
+        "JUL": -11.6,
+        "AUG": 13.3,
+        "SEP": 14.1,
+        "Overall Monsoon": 4.9
+    },
+    {
+        "YEAR": 2012,
+        "JUN": -26.9,
+        "JUL": -9,
+        "AUG": 3.7,
+        "SEP": 17.2,
+        "Overall Monsoon": -3.6
+    },
+    {
+        "YEAR": 2013,
+        "JUN": 33.5,
+        "JUL": 10.7,
+        "AUG": 1.5,
+        "SEP": -8.4,
+        "Overall Monsoon": 8.6
+    },
+    {
+        "YEAR": 2014,
+        "JUN": -44.3,
+        "JUL": -5.3,
+        "AUG": -8.3,
+        "SEP": 12.9,
+        "Overall Monsoon": -10.1
+    },
+    {
+        "YEAR": 2015,
+        "JUN": 14,
+        "JUL": -14.4,
+        "AUG": -21.6,
+        "SEP": -22.6,
+        "Overall Monsoon": -12.7
+    },
+    {
+        "YEAR": 2016,
+        "JUN": -10.7,
+        "JUL": 10,
+        "AUG": -6,
+        "SEP": 1.1,
+        "Overall Monsoon": -0.3
+    },
+    {
+        "YEAR": 2017,
+        "JUN": 4.5,
+        "JUL": 3.5,
+        "AUG": -10,
+        "SEP": -8.8,
+        "Overall Monsoon": -2.6
+    },
+    {
+        "YEAR": 2018,
+        "JUN": -5.4,
+        "JUL": -2.2,
+        "AUG": -5.5,
+        "SEP": -21.1,
+        "Overall Monsoon": -7.4
+    },
+    {
+        "YEAR": 2019,
+        "JUN": -31.3,
+        "JUL": 5.9,
+        "AUG": 17.7,
+        "SEP": 55,
+        "Overall Monsoon": 11.8
+    },
+    {
+        "YEAR": 2020,
+        "JUN": 18.5,
+        "JUL": -8.3,
+        "AUG": 28.8,
+        "SEP": 6.1,
+        "Overall Monsoon": 10.5
+    },
+    {
+        "YEAR": 2021,
+        "JUN": 10.3,
+        "JUL": -5,
+        "AUG": -23.8,
+        "SEP": 36.6,
+        "Overall Monsoon": 0.4
+    }
+]

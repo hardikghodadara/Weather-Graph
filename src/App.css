@@ -1,0 +1,22 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.active {
+  background-color: green;
+  font-weight: bold;
+}
+.switch {
+  border: 1px solid forestgreen;
+  padding: 10px;
+  flex: 1;
+  margin: 16px;
+  cursor: pointer;
+}
+.switchContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex: 1;
+}
